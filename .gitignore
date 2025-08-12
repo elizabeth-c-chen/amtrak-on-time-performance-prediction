@@ -1,0 +1,6 @@
+.DS_Store
+data/*
+stops-joined.csv
+station-info.csv
+.ipynb_checkpoints/
+__pycache__/
