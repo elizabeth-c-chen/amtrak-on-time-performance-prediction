@@ -4,3 +4,5 @@ stops-joined.csv
 station-info.csv
 .ipynb_checkpoints/
 __pycache__/
+bad-data-samples/
+exceptions_full.csv
